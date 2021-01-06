@@ -64,3 +64,5 @@ Thumbs.db
 # File
 *.zip
 *.wav
+VR_Sample_Project/Assets/Oculus/LipSync/Plugins/MacOSX/OVRLipSync.bundle
+VR_Sample_Project/Assets/Oculus/LipSync/Plugins/iOS/libOVRLipSync.dylib
