@@ -1,6 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:VR_Sample_Project/Assets/Oculus/VR/Textures/Icons.meta
+guid: e081f465852cec14380da085e957c52b
+folderAsset: yes
+=======
 guid: 29ab7e927676ef74a93aeedf4146f1ac
 folderAsset: yes
+timeCreated: 1470780399
+licenseType: Store
+>>>>>>> WorkSpace:VR_Sample_Project/Assets/Oculus/AudioManager/Audio.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

@@ -64,7 +64,7 @@ Thumbs.db
 # File
 *.zip
 *.wav
-VR_Sample_Project/Assets/Oculus/VR/Plugins/1.55.1/Win64/OVRPlugin.dll
-VR_Sample_Project/Assets/Oculus/Spatializer/Plugins/x86_64/AudioPluginOculusSpatializer.dll
+
+# Unique ignore list
 VR_Sample_Project/Assets/Oculus/LipSync/Plugins/MacOSX/OVRLipSync.bundle
 VR_Sample_Project/Assets/Oculus/LipSync/Plugins/iOS/libOVRLipSync.dylib
